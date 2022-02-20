@@ -1,0 +1,7 @@
+:root {
+    --blue: #5995e4;
+}
+
+.icon {
+    color: var(--blue);
+}
